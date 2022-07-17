@@ -8,3 +8,10 @@ git track changes
 git track 1st add
 git track 2en add
 GIT TRACK 3RD ADD
+<<<<<<< HEAD
+Creating a new branch is quick. master branch
+=======
+Creating a new branch is quick AND simple.07171125
+>>>>>>> featurel
+OK, I like to keep all of them.
+branch control test
