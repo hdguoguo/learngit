@@ -3,5 +3,10 @@ test
 =======
 test test
 test
+<<<<<<< HEAD
 bug branch test
 >>>>>>> Stashed changes
+=======
+bug branch test
+>>>>>>> dev
+merge files anyway
