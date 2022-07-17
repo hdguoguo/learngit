@@ -14,3 +14,4 @@ Creating a new branch is quick. master branch
 Creating a new branch is quick AND simple.07171125
 >>>>>>> featurel
 OK, I like to keep all of them.
+branch control test
